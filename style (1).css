@@ -1,0 +1,23 @@
+#gameContainer{
+  text-align: center;
+}
+
+#gameBoard{
+  border: 1px solid;
+  background-color: #7e5220;
+}
+
+body{
+  background-color: #b09373;  
+}
+
+img{
+  width: 100px;
+  height: 75px;
+  display: none;
+}
+
+#trophies{
+  background-color: #533013;
+  color: #fff;
+}
